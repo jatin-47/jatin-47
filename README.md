@@ -18,9 +18,9 @@
 
 <br>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=jatin-47&count_private=true&show_icons=true&locale=en&theme=vue-dark" alt="jatin-47" width='50%'/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=jatin-47&count_private=true&show_icons=true&locale=en&theme=vue-dark" alt="jatin-47" width='48%'/>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=jatin-47&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="jatin-47" width='42%'/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=jatin-47&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="jatin-47" width='35%'/>
 
 
 
