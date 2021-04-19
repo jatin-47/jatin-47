@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi! I'm Jatin Saini 👋
 
-<!--
-**jatin-47/jatin-47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">Connect with me: </h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/jatin-saini-60a0a21a0/" target="blank">
+  <img align="center" src="" alt="lin" width="35" />
+</a>
+<a href="https://www.facebook.com/jatin.saini.50159" target="blank">
+  <img align="center" src="" alt="fb" width="35" />
+</a>
+  <a href="https://www.instagram.com/whistling_tongue/" target="blank">
+  <img align="center" src="" alt="insta" width="35" />
+</a>
+  <a href="https://www.quora.com/profile/Jatin-Saini-65" target="blank">
+  <img align="center" src="" alt="quora" width="35" />
+</a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
