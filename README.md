@@ -13,6 +13,9 @@
   </a>&nbsp;
   <a href="https://www.quora.com/profile/Jatin-Saini-65" target="_blank">
     <img align="center" src="https://github.com/jatin-47/jatin-47/blob/main/Images/Social%20Icons/quora.png" alt="quora" width="35"/>
+  </a>&nbsp;
+  <a href="https://www.youtube.com/channel/UCC9VExMokh2itru01IvCA5w" target="_blank">
+    <img align="center" src="https://github.com/jatin-47/jatin-47/blob/main/Images/Social%20Icons/YT.png" alt="yt" width="35"/>
   </a>
 </h3>
 
