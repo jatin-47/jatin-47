@@ -1,6 +1,6 @@
 # 👋 Hi!
 
-I enjoy making new products. My interests lie in Web Develpoment, Deep Learning & Robotics.
+I enjoy making new products. My interests lie in Web Development, Deep Learning & Robotics.
 <h3>
   Website: &nbsp;
 </h3>
